@@ -1,4 +1,5 @@
 print("Hello World")
 print("This is another change")
 print("This line is added by dev branch")
+print("Thisis from master to understand the conflict")
 print("This is another change in dev branch")
