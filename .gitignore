@@ -1,0 +1,7 @@
+*.pyc
+*.class
+app.py.orig
+app_BACKUP_13558.py
+app_BASE_13558.py
+app_LOCAL_13558.py
+app_REMOTE_13558.py
